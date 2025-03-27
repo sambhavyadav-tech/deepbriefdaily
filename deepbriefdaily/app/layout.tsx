@@ -13,11 +13,11 @@ export const metadata = {
   openGraph: {
     title: "DeepBriefDaily - AI-Powered News Summaries",
     description: "Get real-time, AI-curated news summaries from top sources.",
-    url: "https://yourwebsite.com",
+    url: "https://deepbriefdaily.vercel.app/",
     siteName: "DeepBriefDaily",
     images: [
       {
-        url: "https://yourwebsite.com/og-image.jpg",
+        url: "https://deepbriefdaily.vercel.app/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "DeepBriefDaily AI News",
